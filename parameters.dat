@@ -1,0 +1,32 @@
+set automatic_html_opening False
+set lhapdf /cvmfs/sft.cern.ch/lcg/releases/MCGenerators/lhapdf/6.3.0-1f82b/x86_64-centos7-gcc8-opt/bin/lhapdf-config
+import model LRSSM
+generate p p > hmm1 hmm1c, hmm1 > ta- ta-, hmm1c > ta+ ta+
+
+output test -f -nojpeg # create an output folder, overwrite if exists and don't produce jpeg files
+launch
+
+#output in a ROOT file
+shower=Pythia8
+#analysis=ExRoot
+madspin=ON
+
+# Modify run_card.dat
+set nevents 100  # number of unweighted events requested
+set iseed 21
+set lpp1 2
+set lpp2 2
+set ebeam1 6500     # set beam 1 energy
+set ebeam2 6500     # set beam 2 energy
+#set pdlabel lhapdf
+set pdlabel1 none
+set pdlabel2 none
+#set lhaid 260400
+set sys_pdf none    # Don't run pdf systematics
+set use_syst False  # Disable systematics studies
+set fixed_fac_scale True
+set dsqrt_q2fact1 300
+set dsqrt_q2fact2 300
+/eos/user/a/amilieva/summer_2023/hpp/MG5_aMC_v3_5_0/models/LRSSM/param_card.dat
+done
+

@@ -1,0 +1,2627 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+mass 1000021 mdl_Mglu
+
+mass 1000022 mdl_MC01
+
+decay 1000022 mdl_WC01
+
+mass 1000023 mdl_MC02
+
+decay 1000023 mdl_WC02
+
+mass 1000025 mdl_MC03
+
+decay 1000025 mdl_WC03
+
+mass 1000035 mdl_MC04
+
+decay 1000035 mdl_WC04
+
+mass 6000022 mdl_MC05
+
+decay 6000022 mdl_WC05
+
+mass 6000023 mdl_MC06
+
+decay 6000023 mdl_WC06
+
+mass 6000025 mdl_MC07
+
+decay 6000025 mdl_WC07
+
+mass 6000055 mdl_MC08
+
+decay 6000055 mdl_WC08
+
+mass 7000022 mdl_MC09
+
+decay 7000022 mdl_WC09
+
+mass 7000023 mdl_MC010
+
+decay 7000023 mdl_WC010
+
+mass 7000025 mdl_MC011
+
+decay 7000025 mdl_WC011
+
+mass 7000035 mdl_MC012
+
+decay 7000035 mdl_WC012
+
+mass 1000024 mdl_MCA1
+
+decay 1000024 mdl_WCA1
+
+mass 1000037 mdl_MCA2
+
+decay 1000037 mdl_WCA2
+
+mass 6000024 mdl_MCA3
+
+decay 6000024 mdl_WCA3
+
+mass 6000037 mdl_MCA4
+
+decay 6000037 mdl_WCA4
+
+mass 7000024 mdl_MCA5
+
+decay 7000024 mdl_WCA5
+
+mass 7000037 mdl_MCA6
+
+decay 7000037 mdl_WCA6
+
+mass 6000044 mdl_MCmm1
+
+decay 6000044 mdl_WCmm1
+
+mass 6000057 mdl_MCmm2
+
+decay 6000057 mdl_WCmm2
+
+mass 6000012 mdl_Mnu4
+
+decay 6000012 mdl_Wnu4
+
+mass 6000014 mdl_Mnu5
+
+decay 6000014 mdl_Wnu5
+
+mass 6000016 mdl_Mnu6
+
+decay 6000016 mdl_Wnu6
+
+mass 11 mdl_Me1
+
+mass 13 mdl_Me2
+
+mass 15 mdl_Me3
+
+mass 1 mdl_Md1
+
+mass 3 mdl_Md2
+
+mass 5 mdl_Md3
+
+mass 2 mdl_Mu1
+
+mass 4 mdl_Mu2
+
+mass 6 mdl_Mu3
+
+decay 6 mdl_Wu3
+
+mass 1000001 mdl_Msd1
+
+decay 1000001 mdl_Wsd1
+
+mass 1000003 mdl_Msd2
+
+decay 1000003 mdl_Wsd2
+
+mass 1000005 mdl_Msd3
+
+decay 1000005 mdl_Wsd3
+
+mass 2000001 mdl_Msd4
+
+decay 2000001 mdl_Wsd4
+
+mass 2000003 mdl_Msd5
+
+decay 2000003 mdl_Wsd5
+
+mass 2000005 mdl_Msd6
+
+decay 2000005 mdl_Wsd6
+
+mass 1000002 mdl_Msu1
+
+decay 1000002 mdl_Wsu1
+
+mass 1000004 mdl_Msu2
+
+decay 1000004 mdl_Wsu2
+
+mass 1000006 mdl_Msu3
+
+decay 1000006 mdl_Wsu3
+
+mass 2000002 mdl_Msu4
+
+decay 2000002 mdl_Wsu4
+
+mass 2000004 mdl_Msu5
+
+decay 2000004 mdl_Wsu5
+
+mass 2000006 mdl_Msu6
+
+decay 2000006 mdl_Wsu6
+
+mass 1000011 mdl_Mse1
+
+decay 1000011 mdl_Wse1
+
+mass 1000013 mdl_Mse2
+
+decay 1000013 mdl_Wse2
+
+mass 1000015 mdl_Mse3
+
+decay 1000015 mdl_Wse3
+
+mass 2000011 mdl_Mse4
+
+decay 2000011 mdl_Wse4
+
+mass 2000013 mdl_Mse5
+
+decay 2000013 mdl_Wse5
+
+mass 2000015 mdl_Mse6
+
+decay 2000015 mdl_Wse6
+
+mass 1000012 mdl_MSvRe1
+
+decay 1000012 mdl_WSvRe1
+
+mass 1000014 mdl_MSvRe2
+
+decay 1000014 mdl_WSvRe2
+
+mass 1000016 mdl_MSvRe3
+
+decay 1000016 mdl_WSvRe3
+
+mass 2000012 mdl_MSvRe4
+
+decay 2000012 mdl_WSvRe4
+
+mass 2000014 mdl_MSvRe5
+
+decay 2000014 mdl_WSvRe5
+
+mass 2000016 mdl_MSvRe6
+
+decay 2000016 mdl_WSvRe6
+
+mass 5000012 mdl_MSvIe1
+
+decay 5000012 mdl_WSvIe1
+
+mass 5000014 mdl_MSvIe2
+
+decay 5000014 mdl_WSvIe2
+
+mass 5000016 mdl_MSvIe3
+
+decay 5000016 mdl_WSvIe3
+
+mass 7000012 mdl_MSvIe4
+
+decay 7000012 mdl_WSvIe4
+
+mass 7000014 mdl_MSvIe5
+
+decay 7000014 mdl_WSvIe5
+
+mass 7000016 mdl_MSvIe6
+
+decay 7000016 mdl_WSvIe6
+
+mass 9000045 mdl_MhhPr1
+
+decay 9000045 mdl_WhhPr1
+
+mass 9100025 mdl_MhhPr2
+
+decay 9100025 mdl_WhhPr2
+
+mass 9100035 mdl_MhhLe1
+
+decay 9100035 mdl_WhhLe1
+
+mass 9100045 mdl_MhhLe2
+
+decay 9100045 mdl_WhhLe2
+
+mass 25 mdl_Mhh1
+
+decay 25 mdl_Whh1
+
+mass 35 mdl_Mhh2
+
+decay 35 mdl_Whh2
+
+mass 45 mdl_Mhh3
+
+decay 45 mdl_Whh3
+
+mass 9000025 mdl_Mhh4
+
+decay 9000025 mdl_Whh4
+
+mass 9000035 mdl_Mhh5
+
+decay 9000035 mdl_Whh5
+
+mass 7100035 mdl_MAhLe1
+
+decay 7100035 mdl_WAhLe1
+
+mass 7100045 mdl_MAhLe2
+
+decay 7100045 mdl_WAhLe2
+
+mass 7000045 mdl_MAhPr1
+
+decay 7000045 mdl_WAhPr1
+
+mass 7100025 mdl_MAhPr2
+
+decay 7100025 mdl_WAhPr2
+
+mass 36 mdl_MAh3
+
+decay 36 mdl_WAh3
+
+mass 46 mdl_MAh4
+
+decay 46 mdl_WAh4
+
+mass 9000036 mdl_MAh5
+
+decay 9000036 mdl_WAh5
+
+mass 37 mdl_MHpm3
+
+decay 37 mdl_WHpm3
+
+mass 9000037 mdl_MHpm4
+
+decay 9000037 mdl_WHpm4
+
+mass 9100037 mdl_MHpm5
+
+decay 9100037 mdl_WHpm5
+
+mass 9200037 mdl_MHpm6
+
+decay 9200037 mdl_WHpm6
+
+mass 9300037 mdl_MHpmLe1
+
+decay 9300037 mdl_WHpmLe1
+
+mass 9400037 mdl_MHpmLe2
+
+decay 9400037 mdl_WHpmLe2
+
+mass 9000055 mdl_MHmm1
+
+decay 9000055 mdl_WHmm1
+
+mass 9000056 mdl_MHmm2
+
+decay 9000056 mdl_WHmm2
+
+mass 9000057 mdl_MHmmLe1
+
+decay 9000057 mdl_WHmmLe1
+
+mass 9000058 mdl_MHmmLe2
+
+decay 9000058 mdl_WHmmLe2
+
+mass 23 mdl_MZ
+
+decay 23 mdl_WZ
+
+mass 32 mdl_MZp
+
+decay 32 mdl_WZp
+
+decay 24 mdl_WWm
+
+mass 34 mdl_MWRm
+
+decay 34 mdl_WWRm
+
+gauge 4 mdl_gBL
+
+gauge 1 mdl_gR
+
+yl3 1 1 mdl_YL311
+
+yl3 1 2 mdl_YL312
+
+yl3 1 3 mdl_YL313
+
+yl3 2 1 mdl_YL321
+
+yl3 2 2 mdl_YL322
+
+yl3 2 3 mdl_YL323
+
+yl3 3 1 mdl_YL331
+
+yl3 3 2 mdl_YL332
+
+yl3 3 3 mdl_YL333
+
+tl3 1 1 mdl_TL311
+
+tl3 1 2 mdl_TL312
+
+tl3 1 3 mdl_TL313
+
+tl3 2 1 mdl_TL321
+
+tl3 2 2 mdl_TL322
+
+tl3 2 3 mdl_TL323
+
+tl3 3 1 mdl_TL331
+
+tl3 3 2 mdl_TL332
+
+tl3 3 3 mdl_TL333
+
+yl4 1 1 mdl_YL411
+
+yl4 1 2 mdl_YL412
+
+yl4 1 3 mdl_YL413
+
+yl4 2 1 mdl_YL421
+
+yl4 2 2 mdl_YL422
+
+yl4 2 3 mdl_YL423
+
+yl4 3 1 mdl_YL431
+
+yl4 3 2 mdl_YL432
+
+yl4 3 3 mdl_YL433
+
+tl4 1 1 mdl_TL411
+
+tl4 1 2 mdl_TL412
+
+tl4 1 3 mdl_TL413
+
+tl4 2 1 mdl_TL421
+
+tl4 2 2 mdl_TL422
+
+tl4 2 3 mdl_TL423
+
+tl4 3 1 mdl_TL431
+
+tl4 3 2 mdl_TL432
+
+tl4 3 3 mdl_TL433
+
+yl1 1 1 mdl_rYL111
+
+imyl1 1 1 mdl_iYL111
+
+yl1 1 2 mdl_rYL112
+
+imyl1 1 2 mdl_iYL112
+
+yl1 1 3 mdl_rYL113
+
+imyl1 1 3 mdl_iYL113
+
+yl1 2 1 mdl_rYL121
+
+imyl1 2 1 mdl_iYL121
+
+yl1 2 2 mdl_rYL122
+
+imyl1 2 2 mdl_iYL122
+
+yl1 2 3 mdl_rYL123
+
+imyl1 2 3 mdl_iYL123
+
+yl1 3 1 mdl_rYL131
+
+imyl1 3 1 mdl_iYL131
+
+yl1 3 2 mdl_rYL132
+
+imyl1 3 2 mdl_iYL132
+
+yl1 3 3 mdl_rYL133
+
+imyl1 3 3 mdl_iYL133
+
+tl1 1 1 mdl_rTL111
+
+imtl1 1 1 mdl_iTL111
+
+tl1 1 2 mdl_rTL112
+
+imtl1 1 2 mdl_iTL112
+
+tl1 1 3 mdl_rTL113
+
+imtl1 1 3 mdl_iTL113
+
+tl1 2 1 mdl_rTL121
+
+imtl1 2 1 mdl_iTL121
+
+tl1 2 2 mdl_rTL122
+
+imtl1 2 2 mdl_iTL122
+
+tl1 2 3 mdl_rTL123
+
+imtl1 2 3 mdl_iTL123
+
+tl1 3 1 mdl_rTL131
+
+imtl1 3 1 mdl_iTL131
+
+tl1 3 2 mdl_rTL132
+
+imtl1 3 2 mdl_iTL132
+
+tl1 3 3 mdl_rTL133
+
+imtl1 3 3 mdl_iTL133
+
+yl2 1 1 mdl_YL211
+
+yl2 1 2 mdl_YL212
+
+yl2 1 3 mdl_YL213
+
+yl2 2 1 mdl_YL221
+
+yl2 2 2 mdl_YL222
+
+yl2 2 3 mdl_YL223
+
+yl2 3 1 mdl_YL231
+
+yl2 3 2 mdl_YL232
+
+yl2 3 3 mdl_YL233
+
+tl2 1 1 mdl_TL211
+
+tl2 1 2 mdl_TL212
+
+tl2 1 3 mdl_TL213
+
+tl2 2 1 mdl_TL221
+
+tl2 2 2 mdl_TL222
+
+tl2 2 3 mdl_TL223
+
+tl2 3 1 mdl_TL231
+
+tl2 3 2 mdl_TL232
+
+tl2 3 3 mdl_TL233
+
+yq1 1 1 mdl_rYQ111
+
+imyq1 1 1 mdl_iYQ111
+
+yq1 1 2 mdl_rYQ112
+
+imyq1 1 2 mdl_iYQ112
+
+yq1 1 3 mdl_rYQ113
+
+imyq1 1 3 mdl_iYQ113
+
+yq1 2 1 mdl_rYQ121
+
+imyq1 2 1 mdl_iYQ121
+
+yq1 2 2 mdl_rYQ122
+
+imyq1 2 2 mdl_iYQ122
+
+yq1 2 3 mdl_rYQ123
+
+imyq1 2 3 mdl_iYQ123
+
+yq1 3 1 mdl_rYQ131
+
+imyq1 3 1 mdl_iYQ131
+
+yq1 3 2 mdl_rYQ132
+
+imyq1 3 2 mdl_iYQ132
+
+yq1 3 3 mdl_rYQ133
+
+imyq1 3 3 mdl_iYQ133
+
+tq1 1 1 mdl_rTQ111
+
+imtq1 1 1 mdl_iTQ111
+
+tq1 1 2 mdl_rTQ112
+
+imtq1 1 2 mdl_iTQ112
+
+tq1 1 3 mdl_rTQ113
+
+imtq1 1 3 mdl_iTQ113
+
+tq1 2 1 mdl_rTQ121
+
+imtq1 2 1 mdl_iTQ121
+
+tq1 2 2 mdl_rTQ122
+
+imtq1 2 2 mdl_iTQ122
+
+tq1 2 3 mdl_rTQ123
+
+imtq1 2 3 mdl_iTQ123
+
+tq1 3 1 mdl_rTQ131
+
+imtq1 3 1 mdl_iTQ131
+
+tq1 3 2 mdl_rTQ132
+
+imtq1 3 2 mdl_iTQ132
+
+tq1 3 3 mdl_rTQ133
+
+imtq1 3 3 mdl_iTQ133
+
+yq2 1 1 mdl_rYQ211
+
+imyq2 1 1 mdl_iYQ211
+
+yq2 1 2 mdl_rYQ212
+
+imyq2 1 2 mdl_iYQ212
+
+yq2 1 3 mdl_rYQ213
+
+imyq2 1 3 mdl_iYQ213
+
+yq2 2 1 mdl_rYQ221
+
+imyq2 2 1 mdl_iYQ221
+
+yq2 2 2 mdl_rYQ222
+
+imyq2 2 2 mdl_iYQ222
+
+yq2 2 3 mdl_rYQ223
+
+imyq2 2 3 mdl_iYQ223
+
+yq2 3 1 mdl_rYQ231
+
+imyq2 3 1 mdl_iYQ231
+
+yq2 3 2 mdl_rYQ232
+
+imyq2 3 2 mdl_iYQ232
+
+yq2 3 3 mdl_rYQ233
+
+imyq2 3 3 mdl_iYQ233
+
+tq2 1 1 mdl_rTQ211
+
+imtq2 1 1 mdl_iTQ211
+
+tq2 1 2 mdl_rTQ212
+
+imtq2 1 2 mdl_iTQ212
+
+tq2 1 3 mdl_rTQ213
+
+imtq2 1 3 mdl_iTQ213
+
+tq2 2 1 mdl_rTQ221
+
+imtq2 2 1 mdl_iTQ221
+
+tq2 2 2 mdl_rTQ222
+
+imtq2 2 2 mdl_iTQ222
+
+tq2 2 3 mdl_rTQ223
+
+imtq2 2 3 mdl_iTQ223
+
+tq2 3 1 mdl_rTQ231
+
+imtq2 3 1 mdl_iTQ231
+
+tq2 3 2 mdl_rTQ232
+
+imtq2 3 2 mdl_iTQ232
+
+tq2 3 3 mdl_rTQ233
+
+imtq2 3 3 mdl_iTQ233
+
+hlam 2 mdl_LAMR
+
+msoft 41 mdl_TR
+
+hlam 1 mdl_LAML
+
+msoft 40 mdl_TL
+
+hlam 3 mdl_LAM3
+
+msoft 42 mdl_T3
+
+hlam 6 mdl_LAMS
+
+msoft 43 mdl_TS
+
+vevs 7 mdl_VS
+
+vevs 4 mdl_V1R
+
+vevs 5 mdl_V2R
+
+zzmix 1 1 mdl_rZZ11
+
+imzzmix 1 1 mdl_iZZ11
+
+zzmix 1 2 mdl_rZZ12
+
+imzzmix 1 2 mdl_iZZ12
+
+zzmix 1 3 mdl_rZZ13
+
+imzzmix 1 3 mdl_iZZ13
+
+zzmix 2 1 mdl_rZZ21
+
+imzzmix 2 1 mdl_iZZ21
+
+zzmix 2 2 mdl_rZZ22
+
+imzzmix 2 2 mdl_iZZ22
+
+zzmix 2 3 mdl_rZZ23
+
+imzzmix 2 3 mdl_iZZ23
+
+zzmix 3 1 mdl_rZZ31
+
+imzzmix 3 1 mdl_iZZ31
+
+zzmix 3 2 mdl_rZZ32
+
+imzzmix 3 2 mdl_iZZ32
+
+zzmix 3 3 mdl_rZZ33
+
+imzzmix 3 3 mdl_iZZ33
+
+nmix 1 1 mdl_rNN1k1
+
+imnmix 1 1 mdl_iNN1k1
+
+nmix 1 2 mdl_rNN1k2
+
+imnmix 1 2 mdl_iNN1k2
+
+nmix 1 3 mdl_rNN1k3
+
+imnmix 1 3 mdl_iNN1k3
+
+nmix 1 4 mdl_rNN1k4
+
+imnmix 1 4 mdl_iNN1k4
+
+nmix 1 5 mdl_rNN1k5
+
+imnmix 1 5 mdl_iNN1k5
+
+nmix 1 6 mdl_rNN1k6
+
+imnmix 1 6 mdl_iNN1k6
+
+nmix 1 7 mdl_rNN1k7
+
+imnmix 1 7 mdl_iNN1k7
+
+nmix 1 8 mdl_rNN1k8
+
+imnmix 1 8 mdl_iNN1k8
+
+nmix 1 9 mdl_rNN1k9
+
+imnmix 1 9 mdl_iNN1k9
+
+nmix 1 10 mdl_rNN1k10
+
+imnmix 1 10 mdl_iNN1k10
+
+nmix 1 11 mdl_rNN1k11
+
+imnmix 1 11 mdl_iNN1k11
+
+nmix 1 12 mdl_rNN1k12
+
+imnmix 1 12 mdl_iNN1k12
+
+nmix 2 1 mdl_rNN2k1
+
+imnmix 2 1 mdl_iNN2k1
+
+nmix 2 2 mdl_rNN2k2
+
+imnmix 2 2 mdl_iNN2k2
+
+nmix 2 3 mdl_rNN2k3
+
+imnmix 2 3 mdl_iNN2k3
+
+nmix 2 4 mdl_rNN2k4
+
+imnmix 2 4 mdl_iNN2k4
+
+nmix 2 5 mdl_rNN2k5
+
+imnmix 2 5 mdl_iNN2k5
+
+nmix 2 6 mdl_rNN2k6
+
+imnmix 2 6 mdl_iNN2k6
+
+nmix 2 7 mdl_rNN2k7
+
+imnmix 2 7 mdl_iNN2k7
+
+nmix 2 8 mdl_rNN2k8
+
+imnmix 2 8 mdl_iNN2k8
+
+nmix 2 9 mdl_rNN2k9
+
+imnmix 2 9 mdl_iNN2k9
+
+nmix 2 10 mdl_rNN2k10
+
+imnmix 2 10 mdl_iNN2k10
+
+nmix 2 11 mdl_rNN2k11
+
+imnmix 2 11 mdl_iNN2k11
+
+nmix 2 12 mdl_rNN2k12
+
+imnmix 2 12 mdl_iNN2k12
+
+nmix 3 1 mdl_rNN3k1
+
+imnmix 3 1 mdl_iNN3k1
+
+nmix 3 2 mdl_rNN3k2
+
+imnmix 3 2 mdl_iNN3k2
+
+nmix 3 3 mdl_rNN3k3
+
+imnmix 3 3 mdl_iNN3k3
+
+nmix 3 4 mdl_rNN3k4
+
+imnmix 3 4 mdl_iNN3k4
+
+nmix 3 5 mdl_rNN3k5
+
+imnmix 3 5 mdl_iNN3k5
+
+nmix 3 6 mdl_rNN3k6
+
+imnmix 3 6 mdl_iNN3k6
+
+nmix 3 7 mdl_rNN3k7
+
+imnmix 3 7 mdl_iNN3k7
+
+nmix 3 8 mdl_rNN3k8
+
+imnmix 3 8 mdl_iNN3k8
+
+nmix 3 9 mdl_rNN3k9
+
+imnmix 3 9 mdl_iNN3k9
+
+nmix 3 10 mdl_rNN3k10
+
+imnmix 3 10 mdl_iNN3k10
+
+nmix 3 11 mdl_rNN3k11
+
+imnmix 3 11 mdl_iNN3k11
+
+nmix 3 12 mdl_rNN3k12
+
+imnmix 3 12 mdl_iNN3k12
+
+nmix 4 1 mdl_rNN4k1
+
+imnmix 4 1 mdl_iNN4k1
+
+nmix 4 2 mdl_rNN4k2
+
+imnmix 4 2 mdl_iNN4k2
+
+nmix 4 3 mdl_rNN4k3
+
+imnmix 4 3 mdl_iNN4k3
+
+nmix 4 4 mdl_rNN4k4
+
+imnmix 4 4 mdl_iNN4k4
+
+nmix 4 5 mdl_rNN4k5
+
+imnmix 4 5 mdl_iNN4k5
+
+nmix 4 6 mdl_rNN4k6
+
+imnmix 4 6 mdl_iNN4k6
+
+nmix 4 7 mdl_rNN4k7
+
+imnmix 4 7 mdl_iNN4k7
+
+nmix 4 8 mdl_rNN4k8
+
+imnmix 4 8 mdl_iNN4k8
+
+nmix 4 9 mdl_rNN4k9
+
+imnmix 4 9 mdl_iNN4k9
+
+nmix 4 10 mdl_rNN4k10
+
+imnmix 4 10 mdl_iNN4k10
+
+nmix 4 11 mdl_rNN4k11
+
+imnmix 4 11 mdl_iNN4k11
+
+nmix 4 12 mdl_rNN4k12
+
+imnmix 4 12 mdl_iNN4k12
+
+nmix 5 1 mdl_rNN5k1
+
+imnmix 5 1 mdl_iNN5k1
+
+nmix 5 2 mdl_rNN5k2
+
+imnmix 5 2 mdl_iNN5k2
+
+nmix 5 3 mdl_rNN5k3
+
+imnmix 5 3 mdl_iNN5k3
+
+nmix 5 4 mdl_rNN5k4
+
+imnmix 5 4 mdl_iNN5k4
+
+nmix 5 5 mdl_rNN5k5
+
+imnmix 5 5 mdl_iNN5k5
+
+nmix 5 6 mdl_rNN5k6
+
+imnmix 5 6 mdl_iNN5k6
+
+nmix 5 7 mdl_rNN5k7
+
+imnmix 5 7 mdl_iNN5k7
+
+nmix 5 8 mdl_rNN5k8
+
+imnmix 5 8 mdl_iNN5k8
+
+nmix 5 9 mdl_rNN5k9
+
+imnmix 5 9 mdl_iNN5k9
+
+nmix 5 10 mdl_rNN5k10
+
+imnmix 5 10 mdl_iNN5k10
+
+nmix 5 11 mdl_rNN5k11
+
+imnmix 5 11 mdl_iNN5k11
+
+nmix 5 12 mdl_rNN5k12
+
+imnmix 5 12 mdl_iNN5k12
+
+nmix 6 1 mdl_rNN6k1
+
+imnmix 6 1 mdl_iNN6k1
+
+nmix 6 2 mdl_rNN6k2
+
+imnmix 6 2 mdl_iNN6k2
+
+nmix 6 3 mdl_rNN6k3
+
+imnmix 6 3 mdl_iNN6k3
+
+nmix 6 4 mdl_rNN6k4
+
+imnmix 6 4 mdl_iNN6k4
+
+nmix 6 5 mdl_rNN6k5
+
+imnmix 6 5 mdl_iNN6k5
+
+nmix 6 6 mdl_rNN6k6
+
+imnmix 6 6 mdl_iNN6k6
+
+nmix 6 7 mdl_rNN6k7
+
+imnmix 6 7 mdl_iNN6k7
+
+nmix 6 8 mdl_rNN6k8
+
+imnmix 6 8 mdl_iNN6k8
+
+nmix 6 9 mdl_rNN6k9
+
+imnmix 6 9 mdl_iNN6k9
+
+nmix 6 10 mdl_rNN6k10
+
+imnmix 6 10 mdl_iNN6k10
+
+nmix 6 11 mdl_rNN6k11
+
+imnmix 6 11 mdl_iNN6k11
+
+nmix 6 12 mdl_rNN6k12
+
+imnmix 6 12 mdl_iNN6k12
+
+nmix 7 1 mdl_rNN7k1
+
+imnmix 7 1 mdl_iNN7k1
+
+nmix 7 2 mdl_rNN7k2
+
+imnmix 7 2 mdl_iNN7k2
+
+nmix 7 3 mdl_rNN7k3
+
+imnmix 7 3 mdl_iNN7k3
+
+nmix 7 4 mdl_rNN7k4
+
+imnmix 7 4 mdl_iNN7k4
+
+nmix 7 5 mdl_rNN7k5
+
+imnmix 7 5 mdl_iNN7k5
+
+nmix 7 6 mdl_rNN7k6
+
+imnmix 7 6 mdl_iNN7k6
+
+nmix 7 7 mdl_rNN7k7
+
+imnmix 7 7 mdl_iNN7k7
+
+nmix 7 8 mdl_rNN7k8
+
+imnmix 7 8 mdl_iNN7k8
+
+nmix 7 9 mdl_rNN7k9
+
+imnmix 7 9 mdl_iNN7k9
+
+nmix 7 10 mdl_rNN7k10
+
+imnmix 7 10 mdl_iNN7k10
+
+nmix 7 11 mdl_rNN7k11
+
+imnmix 7 11 mdl_iNN7k11
+
+nmix 7 12 mdl_rNN7k12
+
+imnmix 7 12 mdl_iNN7k12
+
+nmix 8 1 mdl_rNN8k1
+
+imnmix 8 1 mdl_iNN8k1
+
+nmix 8 2 mdl_rNN8k2
+
+imnmix 8 2 mdl_iNN8k2
+
+nmix 8 3 mdl_rNN8k3
+
+imnmix 8 3 mdl_iNN8k3
+
+nmix 8 4 mdl_rNN8k4
+
+imnmix 8 4 mdl_iNN8k4
+
+nmix 8 5 mdl_rNN8k5
+
+imnmix 8 5 mdl_iNN8k5
+
+nmix 8 6 mdl_rNN8k6
+
+imnmix 8 6 mdl_iNN8k6
+
+nmix 8 7 mdl_rNN8k7
+
+imnmix 8 7 mdl_iNN8k7
+
+nmix 8 8 mdl_rNN8k8
+
+imnmix 8 8 mdl_iNN8k8
+
+nmix 8 9 mdl_rNN8k9
+
+imnmix 8 9 mdl_iNN8k9
+
+nmix 8 10 mdl_rNN8k10
+
+imnmix 8 10 mdl_iNN8k10
+
+nmix 8 11 mdl_rNN8k11
+
+imnmix 8 11 mdl_iNN8k11
+
+nmix 8 12 mdl_rNN8k12
+
+imnmix 8 12 mdl_iNN8k12
+
+nmix 9 1 mdl_rNN9k1
+
+imnmix 9 1 mdl_iNN9k1
+
+nmix 9 2 mdl_rNN9k2
+
+imnmix 9 2 mdl_iNN9k2
+
+nmix 9 3 mdl_rNN9k3
+
+imnmix 9 3 mdl_iNN9k3
+
+nmix 9 4 mdl_rNN9k4
+
+imnmix 9 4 mdl_iNN9k4
+
+nmix 9 5 mdl_rNN9k5
+
+imnmix 9 5 mdl_iNN9k5
+
+nmix 9 6 mdl_rNN9k6
+
+imnmix 9 6 mdl_iNN9k6
+
+nmix 9 7 mdl_rNN9k7
+
+imnmix 9 7 mdl_iNN9k7
+
+nmix 9 8 mdl_rNN9k8
+
+imnmix 9 8 mdl_iNN9k8
+
+nmix 9 9 mdl_rNN9k9
+
+imnmix 9 9 mdl_iNN9k9
+
+nmix 9 10 mdl_rNN9k10
+
+imnmix 9 10 mdl_iNN9k10
+
+nmix 9 11 mdl_rNN9k11
+
+imnmix 9 11 mdl_iNN9k11
+
+nmix 9 12 mdl_rNN9k12
+
+imnmix 9 12 mdl_iNN9k12
+
+nmix 10 1 mdl_rNN10k1
+
+imnmix 10 1 mdl_iNN10k1
+
+nmix 10 2 mdl_rNN10k2
+
+imnmix 10 2 mdl_iNN10k2
+
+nmix 10 3 mdl_rNN10k3
+
+imnmix 10 3 mdl_iNN10k3
+
+nmix 10 4 mdl_rNN10k4
+
+imnmix 10 4 mdl_iNN10k4
+
+nmix 10 5 mdl_rNN10k5
+
+imnmix 10 5 mdl_iNN10k5
+
+nmix 10 6 mdl_rNN10k6
+
+imnmix 10 6 mdl_iNN10k6
+
+nmix 10 7 mdl_rNN10k7
+
+imnmix 10 7 mdl_iNN10k7
+
+nmix 10 8 mdl_rNN10k8
+
+imnmix 10 8 mdl_iNN10k8
+
+nmix 10 9 mdl_rNN10k9
+
+imnmix 10 9 mdl_iNN10k9
+
+nmix 10 10 mdl_rNN10k10
+
+imnmix 10 10 mdl_iNN10k10
+
+nmix 10 11 mdl_rNN10k11
+
+imnmix 10 11 mdl_iNN10k11
+
+nmix 10 12 mdl_rNN10k12
+
+imnmix 10 12 mdl_iNN10k12
+
+nmix 11 1 mdl_rNN11k1
+
+imnmix 11 1 mdl_iNN11k1
+
+nmix 11 2 mdl_rNN11k2
+
+imnmix 11 2 mdl_iNN11k2
+
+nmix 11 3 mdl_rNN11k3
+
+imnmix 11 3 mdl_iNN11k3
+
+nmix 11 4 mdl_rNN11k4
+
+imnmix 11 4 mdl_iNN11k4
+
+nmix 11 5 mdl_rNN11k5
+
+imnmix 11 5 mdl_iNN11k5
+
+nmix 11 6 mdl_rNN11k6
+
+imnmix 11 6 mdl_iNN11k6
+
+nmix 11 7 mdl_rNN11k7
+
+imnmix 11 7 mdl_iNN11k7
+
+nmix 11 8 mdl_rNN11k8
+
+imnmix 11 8 mdl_iNN11k8
+
+nmix 11 9 mdl_rNN11k9
+
+imnmix 11 9 mdl_iNN11k9
+
+nmix 11 10 mdl_rNN11k10
+
+imnmix 11 10 mdl_iNN11k10
+
+nmix 11 11 mdl_rNN11k11
+
+imnmix 11 11 mdl_iNN11k11
+
+nmix 11 12 mdl_rNN11k12
+
+imnmix 11 12 mdl_iNN11k12
+
+nmix 12 1 mdl_rNN12k1
+
+imnmix 12 1 mdl_iNN12k1
+
+nmix 12 2 mdl_rNN12k2
+
+imnmix 12 2 mdl_iNN12k2
+
+nmix 12 3 mdl_rNN12k3
+
+imnmix 12 3 mdl_iNN12k3
+
+nmix 12 4 mdl_rNN12k4
+
+imnmix 12 4 mdl_iNN12k4
+
+nmix 12 5 mdl_rNN12k5
+
+imnmix 12 5 mdl_iNN12k5
+
+nmix 12 6 mdl_rNN12k6
+
+imnmix 12 6 mdl_iNN12k6
+
+nmix 12 7 mdl_rNN12k7
+
+imnmix 12 7 mdl_iNN12k7
+
+nmix 12 8 mdl_rNN12k8
+
+imnmix 12 8 mdl_iNN12k8
+
+nmix 12 9 mdl_rNN12k9
+
+imnmix 12 9 mdl_iNN12k9
+
+nmix 12 10 mdl_rNN12k10
+
+imnmix 12 10 mdl_iNN12k10
+
+nmix 12 11 mdl_rNN12k11
+
+imnmix 12 11 mdl_iNN12k11
+
+nmix 12 12 mdl_rNN12k12
+
+imnmix 12 12 mdl_iNN12k12
+
+umix 1 1 mdl_rUU11
+
+imumix 1 1 mdl_iUU11
+
+umix 1 2 mdl_rUU12
+
+imumix 1 2 mdl_iUU12
+
+umix 1 3 mdl_rUU13
+
+imumix 1 3 mdl_iUU13
+
+umix 1 4 mdl_rUU14
+
+imumix 1 4 mdl_iUU14
+
+umix 1 5 mdl_rUU15
+
+imumix 1 5 mdl_iUU15
+
+umix 1 6 mdl_rUU16
+
+imumix 1 6 mdl_iUU16
+
+umix 2 1 mdl_rUU21
+
+imumix 2 1 mdl_iUU21
+
+umix 2 2 mdl_rUU22
+
+imumix 2 2 mdl_iUU22
+
+umix 2 3 mdl_rUU23
+
+imumix 2 3 mdl_iUU23
+
+umix 2 4 mdl_rUU24
+
+imumix 2 4 mdl_iUU24
+
+umix 2 5 mdl_rUU25
+
+imumix 2 5 mdl_iUU25
+
+umix 2 6 mdl_rUU26
+
+imumix 2 6 mdl_iUU26
+
+umix 3 1 mdl_rUU31
+
+imumix 3 1 mdl_iUU31
+
+umix 3 2 mdl_rUU32
+
+imumix 3 2 mdl_iUU32
+
+umix 3 3 mdl_rUU33
+
+imumix 3 3 mdl_iUU33
+
+umix 3 4 mdl_rUU34
+
+imumix 3 4 mdl_iUU34
+
+umix 3 5 mdl_rUU35
+
+imumix 3 5 mdl_iUU35
+
+umix 3 6 mdl_rUU36
+
+imumix 3 6 mdl_iUU36
+
+umix 4 1 mdl_rUU41
+
+imumix 4 1 mdl_iUU41
+
+umix 4 2 mdl_rUU42
+
+imumix 4 2 mdl_iUU42
+
+umix 4 3 mdl_rUU43
+
+imumix 4 3 mdl_iUU43
+
+umix 4 4 mdl_rUU44
+
+imumix 4 4 mdl_iUU44
+
+umix 4 5 mdl_rUU45
+
+imumix 4 5 mdl_iUU45
+
+umix 4 6 mdl_rUU46
+
+imumix 4 6 mdl_iUU46
+
+umix 5 1 mdl_rUU51
+
+imumix 5 1 mdl_iUU51
+
+umix 5 2 mdl_rUU52
+
+imumix 5 2 mdl_iUU52
+
+umix 5 3 mdl_rUU53
+
+imumix 5 3 mdl_iUU53
+
+umix 5 4 mdl_rUU54
+
+imumix 5 4 mdl_iUU54
+
+umix 5 5 mdl_rUU55
+
+imumix 5 5 mdl_iUU55
+
+umix 5 6 mdl_rUU56
+
+imumix 5 6 mdl_iUU56
+
+umix 6 1 mdl_rUU61
+
+imumix 6 1 mdl_iUU61
+
+umix 6 2 mdl_rUU62
+
+imumix 6 2 mdl_iUU62
+
+umix 6 3 mdl_rUU63
+
+imumix 6 3 mdl_iUU63
+
+umix 6 4 mdl_rUU64
+
+imumix 6 4 mdl_iUU64
+
+umix 6 5 mdl_rUU65
+
+imumix 6 5 mdl_iUU65
+
+umix 6 6 mdl_rUU66
+
+imumix 6 6 mdl_iUU66
+
+vmix 1 1 mdl_rVV11
+
+imvmix 1 1 mdl_iVV11
+
+vmix 1 2 mdl_rVV12
+
+imvmix 1 2 mdl_iVV12
+
+vmix 1 3 mdl_rVV13
+
+imvmix 1 3 mdl_iVV13
+
+vmix 1 4 mdl_rVV14
+
+imvmix 1 4 mdl_iVV14
+
+vmix 1 5 mdl_rVV15
+
+imvmix 1 5 mdl_iVV15
+
+vmix 1 6 mdl_rVV16
+
+imvmix 1 6 mdl_iVV16
+
+vmix 2 1 mdl_rVV21
+
+imvmix 2 1 mdl_iVV21
+
+vmix 2 2 mdl_rVV22
+
+imvmix 2 2 mdl_iVV22
+
+vmix 2 3 mdl_rVV23
+
+imvmix 2 3 mdl_iVV23
+
+vmix 2 4 mdl_rVV24
+
+imvmix 2 4 mdl_iVV24
+
+vmix 2 5 mdl_rVV25
+
+imvmix 2 5 mdl_iVV25
+
+vmix 2 6 mdl_rVV26
+
+imvmix 2 6 mdl_iVV26
+
+vmix 3 1 mdl_rVV31
+
+imvmix 3 1 mdl_iVV31
+
+vmix 3 2 mdl_rVV32
+
+imvmix 3 2 mdl_iVV32
+
+vmix 3 3 mdl_rVV33
+
+imvmix 3 3 mdl_iVV33
+
+vmix 3 4 mdl_rVV34
+
+imvmix 3 4 mdl_iVV34
+
+vmix 3 5 mdl_rVV35
+
+imvmix 3 5 mdl_iVV35
+
+vmix 3 6 mdl_rVV36
+
+imvmix 3 6 mdl_iVV36
+
+vmix 4 1 mdl_rVV41
+
+imvmix 4 1 mdl_iVV41
+
+vmix 4 2 mdl_rVV42
+
+imvmix 4 2 mdl_iVV42
+
+vmix 4 3 mdl_rVV43
+
+imvmix 4 3 mdl_iVV43
+
+vmix 4 4 mdl_rVV44
+
+imvmix 4 4 mdl_iVV44
+
+vmix 4 5 mdl_rVV45
+
+imvmix 4 5 mdl_iVV45
+
+vmix 4 6 mdl_rVV46
+
+imvmix 4 6 mdl_iVV46
+
+vmix 5 1 mdl_rVV51
+
+imvmix 5 1 mdl_iVV51
+
+vmix 5 2 mdl_rVV52
+
+imvmix 5 2 mdl_iVV52
+
+vmix 5 3 mdl_rVV53
+
+imvmix 5 3 mdl_iVV53
+
+vmix 5 4 mdl_rVV54
+
+imvmix 5 4 mdl_iVV54
+
+vmix 5 5 mdl_rVV55
+
+imvmix 5 5 mdl_iVV55
+
+vmix 5 6 mdl_rVV56
+
+imvmix 5 6 mdl_iVV56
+
+vmix 6 1 mdl_rVV61
+
+imvmix 6 1 mdl_iVV61
+
+vmix 6 2 mdl_rVV62
+
+imvmix 6 2 mdl_iVV62
+
+vmix 6 3 mdl_rVV63
+
+imvmix 6 3 mdl_iVV63
+
+vmix 6 4 mdl_rVV64
+
+imvmix 6 4 mdl_iVV64
+
+vmix 6 5 mdl_rVV65
+
+imvmix 6 5 mdl_iVV65
+
+vmix 6 6 mdl_rVV66
+
+imvmix 6 6 mdl_iVV66
+
+dsqmix 1 1 mdl_Rd11
+
+dsqmix 1 2 mdl_Rd12
+
+dsqmix 1 3 mdl_Rd13
+
+dsqmix 1 4 mdl_Rd14
+
+dsqmix 1 5 mdl_Rd15
+
+dsqmix 1 6 mdl_Rd16
+
+dsqmix 2 1 mdl_Rd21
+
+dsqmix 2 2 mdl_Rd22
+
+dsqmix 2 3 mdl_Rd23
+
+dsqmix 2 4 mdl_Rd24
+
+dsqmix 2 5 mdl_Rd25
+
+dsqmix 2 6 mdl_Rd26
+
+dsqmix 3 1 mdl_Rd31
+
+dsqmix 3 2 mdl_Rd32
+
+dsqmix 3 3 mdl_Rd33
+
+dsqmix 3 4 mdl_Rd34
+
+dsqmix 3 5 mdl_Rd35
+
+dsqmix 3 6 mdl_Rd36
+
+dsqmix 4 1 mdl_Rd41
+
+dsqmix 4 2 mdl_Rd42
+
+dsqmix 4 3 mdl_Rd43
+
+dsqmix 4 4 mdl_Rd44
+
+dsqmix 4 5 mdl_Rd45
+
+dsqmix 4 6 mdl_Rd46
+
+dsqmix 5 1 mdl_Rd51
+
+dsqmix 5 2 mdl_Rd52
+
+dsqmix 5 3 mdl_Rd53
+
+dsqmix 5 4 mdl_Rd54
+
+dsqmix 5 5 mdl_Rd55
+
+dsqmix 5 6 mdl_Rd56
+
+dsqmix 6 1 mdl_Rd61
+
+dsqmix 6 2 mdl_Rd62
+
+dsqmix 6 3 mdl_Rd63
+
+dsqmix 6 4 mdl_Rd64
+
+dsqmix 6 5 mdl_Rd65
+
+dsqmix 6 6 mdl_Rd66
+
+usqmix 1 1 mdl_Ru11
+
+usqmix 1 2 mdl_Ru12
+
+usqmix 1 3 mdl_Ru13
+
+usqmix 1 4 mdl_Ru14
+
+usqmix 1 5 mdl_Ru15
+
+usqmix 1 6 mdl_Ru16
+
+usqmix 2 1 mdl_Ru21
+
+usqmix 2 2 mdl_Ru22
+
+usqmix 2 3 mdl_Ru23
+
+usqmix 2 4 mdl_Ru24
+
+usqmix 2 5 mdl_Ru25
+
+usqmix 2 6 mdl_Ru26
+
+usqmix 3 1 mdl_Ru31
+
+usqmix 3 2 mdl_Ru32
+
+usqmix 3 3 mdl_Ru33
+
+usqmix 3 4 mdl_Ru34
+
+usqmix 3 5 mdl_Ru35
+
+usqmix 3 6 mdl_Ru36
+
+usqmix 4 1 mdl_Ru41
+
+usqmix 4 2 mdl_Ru42
+
+usqmix 4 3 mdl_Ru43
+
+usqmix 4 4 mdl_Ru44
+
+usqmix 4 5 mdl_Ru45
+
+usqmix 4 6 mdl_Ru46
+
+usqmix 5 1 mdl_Ru51
+
+usqmix 5 2 mdl_Ru52
+
+usqmix 5 3 mdl_Ru53
+
+usqmix 5 4 mdl_Ru54
+
+usqmix 5 5 mdl_Ru55
+
+usqmix 5 6 mdl_Ru56
+
+usqmix 6 1 mdl_Ru61
+
+usqmix 6 2 mdl_Ru62
+
+usqmix 6 3 mdl_Ru63
+
+usqmix 6 4 mdl_Ru64
+
+usqmix 6 5 mdl_Ru65
+
+usqmix 6 6 mdl_Ru66
+
+selmix 1 1 mdl_Rl11
+
+selmix 1 2 mdl_Rl12
+
+selmix 1 3 mdl_Rl13
+
+selmix 1 4 mdl_Rl14
+
+selmix 1 5 mdl_Rl15
+
+selmix 1 6 mdl_Rl16
+
+selmix 2 1 mdl_Rl21
+
+selmix 2 2 mdl_Rl22
+
+selmix 2 3 mdl_Rl23
+
+selmix 2 4 mdl_Rl24
+
+selmix 2 5 mdl_Rl25
+
+selmix 2 6 mdl_Rl26
+
+selmix 3 1 mdl_Rl31
+
+selmix 3 2 mdl_Rl32
+
+selmix 3 3 mdl_Rl33
+
+selmix 3 4 mdl_Rl34
+
+selmix 3 5 mdl_Rl35
+
+selmix 3 6 mdl_Rl36
+
+selmix 4 1 mdl_Rl41
+
+selmix 4 2 mdl_Rl42
+
+selmix 4 3 mdl_Rl43
+
+selmix 4 4 mdl_Rl44
+
+selmix 4 5 mdl_Rl45
+
+selmix 4 6 mdl_Rl46
+
+selmix 5 1 mdl_Rl51
+
+selmix 5 2 mdl_Rl52
+
+selmix 5 3 mdl_Rl53
+
+selmix 5 4 mdl_Rl54
+
+selmix 5 5 mdl_Rl55
+
+selmix 5 6 mdl_Rl56
+
+selmix 6 1 mdl_Rl61
+
+selmix 6 2 mdl_Rl62
+
+selmix 6 3 mdl_Rl63
+
+selmix 6 4 mdl_Rl64
+
+selmix 6 5 mdl_Rl65
+
+selmix 6 6 mdl_Rl66
+
+snumixre 1 1 mdl_RnRe11
+
+snumixre 1 2 mdl_RnRe12
+
+snumixre 1 3 mdl_RnRe13
+
+snumixre 1 4 mdl_RnRe14
+
+snumixre 1 5 mdl_RnRe15
+
+snumixre 1 6 mdl_RnRe16
+
+snumixre 2 1 mdl_RnRe21
+
+snumixre 2 2 mdl_RnRe22
+
+snumixre 2 3 mdl_RnRe23
+
+snumixre 2 4 mdl_RnRe24
+
+snumixre 2 5 mdl_RnRe25
+
+snumixre 2 6 mdl_RnRe26
+
+snumixre 3 1 mdl_RnRe31
+
+snumixre 3 2 mdl_RnRe32
+
+snumixre 3 3 mdl_RnRe33
+
+snumixre 3 4 mdl_RnRe34
+
+snumixre 3 5 mdl_RnRe35
+
+snumixre 3 6 mdl_RnRe36
+
+snumixre 4 1 mdl_RnRe41
+
+snumixre 4 2 mdl_RnRe42
+
+snumixre 4 3 mdl_RnRe43
+
+snumixre 4 4 mdl_RnRe44
+
+snumixre 4 5 mdl_RnRe45
+
+snumixre 4 6 mdl_RnRe46
+
+snumixre 5 1 mdl_RnRe51
+
+snumixre 5 2 mdl_RnRe52
+
+snumixre 5 3 mdl_RnRe53
+
+snumixre 5 4 mdl_RnRe54
+
+snumixre 5 5 mdl_RnRe55
+
+snumixre 5 6 mdl_RnRe56
+
+snumixre 6 1 mdl_RnRe61
+
+snumixre 6 2 mdl_RnRe62
+
+snumixre 6 3 mdl_RnRe63
+
+snumixre 6 4 mdl_RnRe64
+
+snumixre 6 5 mdl_RnRe65
+
+snumixre 6 6 mdl_RnRe66
+
+snumixim 1 1 mdl_RnIm11
+
+snumixim 1 2 mdl_RnIm12
+
+snumixim 1 3 mdl_RnIm13
+
+snumixim 1 4 mdl_RnIm14
+
+snumixim 1 5 mdl_RnIm15
+
+snumixim 1 6 mdl_RnIm16
+
+snumixim 2 1 mdl_RnIm21
+
+snumixim 2 2 mdl_RnIm22
+
+snumixim 2 3 mdl_RnIm23
+
+snumixim 2 4 mdl_RnIm24
+
+snumixim 2 5 mdl_RnIm25
+
+snumixim 2 6 mdl_RnIm26
+
+snumixim 3 1 mdl_RnIm31
+
+snumixim 3 2 mdl_RnIm32
+
+snumixim 3 3 mdl_RnIm33
+
+snumixim 3 4 mdl_RnIm34
+
+snumixim 3 5 mdl_RnIm35
+
+snumixim 3 6 mdl_RnIm36
+
+snumixim 4 1 mdl_RnIm41
+
+snumixim 4 2 mdl_RnIm42
+
+snumixim 4 3 mdl_RnIm43
+
+snumixim 4 4 mdl_RnIm44
+
+snumixim 4 5 mdl_RnIm45
+
+snumixim 4 6 mdl_RnIm46
+
+snumixim 5 1 mdl_RnIm51
+
+snumixim 5 2 mdl_RnIm52
+
+snumixim 5 3 mdl_RnIm53
+
+snumixim 5 4 mdl_RnIm54
+
+snumixim 5 5 mdl_RnIm55
+
+snumixim 5 6 mdl_RnIm56
+
+snumixim 6 1 mdl_RnIm61
+
+snumixim 6 2 mdl_RnIm62
+
+snumixim 6 3 mdl_RnIm63
+
+snumixim 6 4 mdl_RnIm64
+
+snumixim 6 5 mdl_RnIm65
+
+snumixim 6 6 mdl_RnIm66
+
+uhp 1 1 mdl_USP11
+
+uhp 1 2 mdl_USP12
+
+uhp 2 1 mdl_USP21
+
+uhp 2 2 mdl_USP22
+
+uhl 1 1 mdl_USL11
+
+uhl 1 2 mdl_USL12
+
+uhl 2 1 mdl_USL21
+
+uhl 2 2 mdl_USL22
+
+scalarmix 1 1 mdl_ZH11
+
+scalarmix 1 2 mdl_ZH12
+
+scalarmix 1 3 mdl_ZH13
+
+scalarmix 1 4 mdl_ZH14
+
+scalarmix 1 5 mdl_ZH15
+
+scalarmix 2 1 mdl_ZH21
+
+scalarmix 2 2 mdl_ZH22
+
+scalarmix 2 3 mdl_ZH23
+
+scalarmix 2 4 mdl_ZH24
+
+scalarmix 2 5 mdl_ZH25
+
+scalarmix 3 1 mdl_ZH31
+
+scalarmix 3 2 mdl_ZH32
+
+scalarmix 3 3 mdl_ZH33
+
+scalarmix 3 4 mdl_ZH34
+
+scalarmix 3 5 mdl_ZH35
+
+scalarmix 4 1 mdl_ZH41
+
+scalarmix 4 2 mdl_ZH42
+
+scalarmix 4 3 mdl_ZH43
+
+scalarmix 4 4 mdl_ZH44
+
+scalarmix 4 5 mdl_ZH45
+
+scalarmix 5 1 mdl_ZH51
+
+scalarmix 5 2 mdl_ZH52
+
+scalarmix 5 3 mdl_ZH53
+
+scalarmix 5 4 mdl_ZH54
+
+scalarmix 5 5 mdl_ZH55
+
+upl 1 1 mdl_UPL11
+
+upl 1 2 mdl_UPL12
+
+upl 2 1 mdl_UPL21
+
+upl 2 2 mdl_UPL22
+
+uppr 1 1 mdl_UPPr11
+
+uppr 1 2 mdl_UPPr12
+
+uppr 2 1 mdl_UPPr21
+
+uppr 2 2 mdl_UPPr22
+
+amix 1 1 mdl_UP11
+
+amix 1 2 mdl_UP12
+
+amix 1 3 mdl_UP13
+
+amix 1 4 mdl_UP14
+
+amix 1 5 mdl_UP15
+
+amix 2 1 mdl_UP21
+
+amix 2 2 mdl_UP22
+
+amix 2 3 mdl_UP23
+
+amix 2 4 mdl_UP24
+
+amix 2 5 mdl_UP25
+
+amix 3 1 mdl_UP31
+
+amix 3 2 mdl_UP32
+
+amix 3 3 mdl_UP33
+
+amix 3 4 mdl_UP34
+
+amix 3 5 mdl_UP35
+
+amix 4 1 mdl_UP41
+
+amix 4 2 mdl_UP42
+
+amix 4 3 mdl_UP43
+
+amix 4 4 mdl_UP44
+
+amix 4 5 mdl_UP45
+
+amix 5 1 mdl_UP51
+
+amix 5 2 mdl_UP52
+
+amix 5 3 mdl_UP53
+
+amix 5 4 mdl_UP54
+
+amix 5 5 mdl_UP55
+
+chmix 1 1 mdl_UC11
+
+chmix 1 2 mdl_UC12
+
+chmix 1 3 mdl_UC13
+
+chmix 1 4 mdl_UC14
+
+chmix 1 5 mdl_UC15
+
+chmix 1 6 mdl_UC16
+
+chmix 2 1 mdl_UC21
+
+chmix 2 2 mdl_UC22
+
+chmix 2 3 mdl_UC23
+
+chmix 2 4 mdl_UC24
+
+chmix 2 5 mdl_UC25
+
+chmix 2 6 mdl_UC26
+
+chmix 3 1 mdl_UC31
+
+chmix 3 2 mdl_UC32
+
+chmix 3 3 mdl_UC33
+
+chmix 3 4 mdl_UC34
+
+chmix 3 5 mdl_UC35
+
+chmix 3 6 mdl_UC36
+
+chmix 4 1 mdl_UC41
+
+chmix 4 2 mdl_UC42
+
+chmix 4 3 mdl_UC43
+
+chmix 4 4 mdl_UC44
+
+chmix 4 5 mdl_UC45
+
+chmix 4 6 mdl_UC46
+
+chmix 5 1 mdl_UC51
+
+chmix 5 2 mdl_UC52
+
+chmix 5 3 mdl_UC53
+
+chmix 5 4 mdl_UC54
+
+chmix 5 5 mdl_UC55
+
+chmix 5 6 mdl_UC56
+
+chmix 6 1 mdl_UC61
+
+chmix 6 2 mdl_UC62
+
+chmix 6 3 mdl_UC63
+
+chmix 6 4 mdl_UC64
+
+chmix 6 5 mdl_UC65
+
+chmix 6 6 mdl_UC66
+
+chlmix 1 1 mdl_UCL11
+
+chlmix 1 2 mdl_UCL12
+
+chlmix 2 1 mdl_UCL21
+
+chlmix 2 2 mdl_UCL22
+
+dhmix 1 1 mdl_UCC11
+
+dhmix 1 2 mdl_UCC12
+
+dhmix 2 1 mdl_UCC21
+
+dhmix 2 2 mdl_UCC22
+
+dhlmix 1 1 mdl_UCCL11
+
+dhlmix 1 2 mdl_UCCL12
+
+dhlmix 2 1 mdl_UCCL21
+
+dhlmix 2 2 mdl_UCCL22
+
+umm 1 1 mdl_rUMM11
+
+imumm 1 1 mdl_iUMM11
+
+umm 1 2 mdl_rUMM12
+
+imumm 1 2 mdl_iUMM12
+
+umm 2 1 mdl_rUMM21
+
+imumm 2 1 mdl_iUMM21
+
+umm 2 2 mdl_rUMM22
+
+imumm 2 2 mdl_iUMM22
+
+upp 1 1 mdl_rUPP11
+
+imupp 1 1 mdl_iUPP11
+
+upp 1 2 mdl_rUPP12
+
+imupp 1 2 mdl_iUPP12
+
+upp 2 1 mdl_rUPP21
+
+imupp 2 1 mdl_iUPP21
+
+upp 2 2 mdl_rUPP22
+
+imupp 2 2 mdl_iUPP22
+
+pmns 1 1 mdl_rUV11
+
+impmns 1 1 mdl_iUV11
+
+pmns 1 2 mdl_rUV12
+
+impmns 1 2 mdl_iUV12
+
+pmns 1 3 mdl_rUV13
+
+impmns 1 3 mdl_iUV13
+
+pmns 1 4 mdl_rUV14
+
+impmns 1 4 mdl_iUV14
+
+pmns 1 5 mdl_rUV15
+
+impmns 1 5 mdl_iUV15
+
+pmns 1 6 mdl_rUV16
+
+impmns 1 6 mdl_iUV16
+
+pmns 2 1 mdl_rUV21
+
+impmns 2 1 mdl_iUV21
+
+pmns 2 2 mdl_rUV22
+
+impmns 2 2 mdl_iUV22
+
+pmns 2 3 mdl_rUV23
+
+impmns 2 3 mdl_iUV23
+
+pmns 2 4 mdl_rUV24
+
+impmns 2 4 mdl_iUV24
+
+pmns 2 5 mdl_rUV25
+
+impmns 2 5 mdl_iUV25
+
+pmns 2 6 mdl_rUV26
+
+impmns 2 6 mdl_iUV26
+
+pmns 3 1 mdl_rUV31
+
+impmns 3 1 mdl_iUV31
+
+pmns 3 2 mdl_rUV32
+
+impmns 3 2 mdl_iUV32
+
+pmns 3 3 mdl_rUV33
+
+impmns 3 3 mdl_iUV33
+
+pmns 3 4 mdl_rUV34
+
+impmns 3 4 mdl_iUV34
+
+pmns 3 5 mdl_rUV35
+
+impmns 3 5 mdl_iUV35
+
+pmns 3 6 mdl_rUV36
+
+impmns 3 6 mdl_iUV36
+
+pmns 4 1 mdl_rUV41
+
+impmns 4 1 mdl_iUV41
+
+pmns 4 2 mdl_rUV42
+
+impmns 4 2 mdl_iUV42
+
+pmns 4 3 mdl_rUV43
+
+impmns 4 3 mdl_iUV43
+
+pmns 4 4 mdl_rUV44
+
+impmns 4 4 mdl_iUV44
+
+pmns 4 5 mdl_rUV45
+
+impmns 4 5 mdl_iUV45
+
+pmns 4 6 mdl_rUV46
+
+impmns 4 6 mdl_iUV46
+
+pmns 5 1 mdl_rUV51
+
+impmns 5 1 mdl_iUV51
+
+pmns 5 2 mdl_rUV52
+
+impmns 5 2 mdl_iUV52
+
+pmns 5 3 mdl_rUV53
+
+impmns 5 3 mdl_iUV53
+
+pmns 5 4 mdl_rUV54
+
+impmns 5 4 mdl_iUV54
+
+pmns 5 5 mdl_rUV55
+
+impmns 5 5 mdl_iUV55
+
+pmns 5 6 mdl_rUV56
+
+impmns 5 6 mdl_iUV56
+
+pmns 6 1 mdl_rUV61
+
+impmns 6 1 mdl_iUV61
+
+pmns 6 2 mdl_rUV62
+
+impmns 6 2 mdl_iUV62
+
+pmns 6 3 mdl_rUV63
+
+impmns 6 3 mdl_iUV63
+
+pmns 6 4 mdl_rUV64
+
+impmns 6 4 mdl_iUV64
+
+pmns 6 5 mdl_rUV65
+
+impmns 6 5 mdl_iUV65
+
+pmns 6 6 mdl_rUV66
+
+impmns 6 6 mdl_iUV66
+
+uelmix 1 1 mdl_rZEL11
+
+imuelmix 1 1 mdl_iZEL11
+
+uelmix 1 2 mdl_rZEL12
+
+imuelmix 1 2 mdl_iZEL12
+
+uelmix 1 3 mdl_rZEL13
+
+imuelmix 1 3 mdl_iZEL13
+
+uelmix 2 1 mdl_rZEL21
+
+imuelmix 2 1 mdl_iZEL21
+
+uelmix 2 2 mdl_rZEL22
+
+imuelmix 2 2 mdl_iZEL22
+
+uelmix 2 3 mdl_rZEL23
+
+imuelmix 2 3 mdl_iZEL23
+
+uelmix 3 1 mdl_rZEL31
+
+imuelmix 3 1 mdl_iZEL31
+
+uelmix 3 2 mdl_rZEL32
+
+imuelmix 3 2 mdl_iZEL32
+
+uelmix 3 3 mdl_rZEL33
+
+imuelmix 3 3 mdl_iZEL33
+
+uermix 1 1 mdl_rZER11
+
+imuermix 1 1 mdl_iZER11
+
+uermix 1 2 mdl_rZER12
+
+imuermix 1 2 mdl_iZER12
+
+uermix 1 3 mdl_rZER13
+
+imuermix 1 3 mdl_iZER13
+
+uermix 2 1 mdl_rZER21
+
+imuermix 2 1 mdl_iZER21
+
+uermix 2 2 mdl_rZER22
+
+imuermix 2 2 mdl_iZER22
+
+uermix 2 3 mdl_rZER23
+
+imuermix 2 3 mdl_iZER23
+
+uermix 3 1 mdl_rZER31
+
+imuermix 3 1 mdl_iZER31
+
+uermix 3 2 mdl_rZER32
+
+imuermix 3 2 mdl_iZER32
+
+uermix 3 3 mdl_rZER33
+
+imuermix 3 3 mdl_iZER33
+
+udlmix 1 1 mdl_rZDL11
+
+imudlmix 1 1 mdl_iZDL11
+
+udlmix 1 2 mdl_rZDL12
+
+imudlmix 1 2 mdl_iZDL12
+
+udlmix 1 3 mdl_rZDL13
+
+imudlmix 1 3 mdl_iZDL13
+
+udlmix 2 1 mdl_rZDL21
+
+imudlmix 2 1 mdl_iZDL21
+
+udlmix 2 2 mdl_rZDL22
+
+imudlmix 2 2 mdl_iZDL22
+
+udlmix 2 3 mdl_rZDL23
+
+imudlmix 2 3 mdl_iZDL23
+
+udlmix 3 1 mdl_rZDL31
+
+imudlmix 3 1 mdl_iZDL31
+
+udlmix 3 2 mdl_rZDL32
+
+imudlmix 3 2 mdl_iZDL32
+
+udlmix 3 3 mdl_rZDL33
+
+imudlmix 3 3 mdl_iZDL33
+
+udrmix 1 1 mdl_rZDR11
+
+imudrmix 1 1 mdl_iZDR11
+
+udrmix 1 2 mdl_rZDR12
+
+imudrmix 1 2 mdl_iZDR12
+
+udrmix 1 3 mdl_rZDR13
+
+imudrmix 1 3 mdl_iZDR13
+
+udrmix 2 1 mdl_rZDR21
+
+imudrmix 2 1 mdl_iZDR21
+
+udrmix 2 2 mdl_rZDR22
+
+imudrmix 2 2 mdl_iZDR22
+
+udrmix 2 3 mdl_rZDR23
+
+imudrmix 2 3 mdl_iZDR23
+
+udrmix 3 1 mdl_rZDR31
+
+imudrmix 3 1 mdl_iZDR31
+
+udrmix 3 2 mdl_rZDR32
+
+imudrmix 3 2 mdl_iZDR32
+
+udrmix 3 3 mdl_rZDR33
+
+imudrmix 3 3 mdl_iZDR33
+
+uulmix 1 1 mdl_rZUL11
+
+imuulmix 1 1 mdl_iZUL11
+
+uulmix 1 2 mdl_rZUL12
+
+imuulmix 1 2 mdl_iZUL12
+
+uulmix 1 3 mdl_rZUL13
+
+imuulmix 1 3 mdl_iZUL13
+
+uulmix 2 1 mdl_rZUL21
+
+imuulmix 2 1 mdl_iZUL21
+
+uulmix 2 2 mdl_rZUL22
+
+imuulmix 2 2 mdl_iZUL22
+
+uulmix 2 3 mdl_rZUL23
+
+imuulmix 2 3 mdl_iZUL23
+
+uulmix 3 1 mdl_rZUL31
+
+imuulmix 3 1 mdl_iZUL31
+
+uulmix 3 2 mdl_rZUL32
+
+imuulmix 3 2 mdl_iZUL32
+
+uulmix 3 3 mdl_rZUL33
+
+imuulmix 3 3 mdl_iZUL33
+
+uurmix 1 1 mdl_rZUR11
+
+imuurmix 1 1 mdl_iZUR11
+
+uurmix 1 2 mdl_rZUR12
+
+imuurmix 1 2 mdl_iZUR12
+
+uurmix 1 3 mdl_rZUR13
+
+imuurmix 1 3 mdl_iZUR13
+
+uurmix 2 1 mdl_rZUR21
+
+imuurmix 2 1 mdl_iZUR21
+
+uurmix 2 2 mdl_rZUR22
+
+imuurmix 2 2 mdl_iZUR22
+
+uurmix 2 3 mdl_rZUR23
+
+imuurmix 2 3 mdl_iZUR23
+
+uurmix 3 1 mdl_rZUR31
+
+imuurmix 3 1 mdl_iZUR31
+
+uurmix 3 2 mdl_rZUR32
+
+imuurmix 3 2 mdl_iZUR32
+
+uurmix 3 3 mdl_rZUR33
+
+imuurmix 3 3 mdl_iZUR33
+
+thetaw 1 mdl_TW
+
+sminputs 1 aEWM1
+
+sminputs 3 aS
+
+beta 1 mdl_betaH
+
+sminputs 2 mdl_Gf
+
+effhiggscouplings 25 22 22 mdl_HPP1
+
+effhiggscouplings 25 21 21 mdl_HGG1
+
+effhiggscouplings 35 22 22 mdl_HPP2
+
+effhiggscouplings 35 21 21 mdl_HGG2
+
+effhiggscouplings 45 22 22 mdl_HPP3
+
+effhiggscouplings 45 21 21 mdl_HGG3
+
+effhiggscouplings 9000025 22 22 mdl_HPP4
+
+effhiggscouplings 9000025 21 21 mdl_HGG4
+
+effhiggscouplings 9000035 22 22 mdl_HPP5
+
+effhiggscouplings 9000035 21 21 mdl_HGG5
+
+effhiggscouplings 36 22 22 mdl_APP3
+
+effhiggscouplings 36 21 21 mdl_AGG3
+
+effhiggscouplings 46 22 22 mdl_APP4
+
+effhiggscouplings 46 21 21 mdl_AGG4
+
+effhiggscouplings 9000036 22 22 mdl_APP5
+
+effhiggscouplings 9000036 21 21 mdl_AGG5

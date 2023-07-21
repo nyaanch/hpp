@@ -1,0 +1,1 @@
+/eos/home-a/amilieva/summer_2023/CMSSW_12_5_5_patch1/src/hpp/MG5_aMC_v3_5_0/bin/test/SubProcesses/P1_gg_hmm1hmm1c_hmm1_tamtam_hmm1c_taptap/matrix1_orig.f
